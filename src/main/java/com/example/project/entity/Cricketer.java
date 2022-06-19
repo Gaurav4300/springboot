@@ -24,7 +24,7 @@ public class Cricketer {
 	@Id
 	//@GeneratedValue(strategy=GenerationType.AUTO)
 	public int id;
-	public String name;
+	public String cricketername;
 	public String teamname;
 	public int getId() {
 		return id;
